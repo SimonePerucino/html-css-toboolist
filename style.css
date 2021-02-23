@@ -71,7 +71,14 @@ body{
      border-radius: 5px;
  }
 
-  /* prima sezione */
-  .
+ /* prima sezione */
 
+ .bg-lightblue{
+     background-color: lightskyblue;
+     color: white;
+     border-radius: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
 
+ }
+     
