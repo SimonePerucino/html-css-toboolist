@@ -45,7 +45,7 @@ body{
     margin: auto;
     background-color: white;
     border-radius: 5px;
-    margin-top: 5px;
+    
 
  }
 
@@ -86,7 +86,7 @@ body{
   /* implementa margine di 10px */
 
   .marg{
-      margin:20px
+      margin:10px
   }
 
   /* crea spazio tra prima riga e container */
