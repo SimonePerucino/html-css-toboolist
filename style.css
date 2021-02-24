@@ -102,3 +102,49 @@ body{
 
   }
   
+  /* background colorati */
+
+  #viola{
+    background-color: rgb(175, 20, 196);
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+
+  #verde{
+    background-color: rgb(0, 221, 48);
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+
+  #arancione{
+    background-color: rgb(236, 147, 13);
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+
+  #giallo{
+    background-color: rgb(221, 236, 13);
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+
+  #rosso{
+    background-color: rgb(255, 2, 2);
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
