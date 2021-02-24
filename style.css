@@ -94,3 +94,11 @@ body{
   #pad{
       padding-top: 20px;
   }
+
+  /* implementa spazio tra le singole righe */
+
+  .marg-righe{
+      margin-top: 7px;
+
+  }
+  
